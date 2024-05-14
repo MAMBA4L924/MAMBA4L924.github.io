@@ -17,6 +17,5 @@ Hi there, I'm Kuangzhi(Arell) Ge, an undergraguate student majoring in artificia
 # Publications:
 Upcoming...
 
-# Awards:
-- Peking University Outstanding Freshman Scholarship, Third Prize
-  - Year: [2022]
+# Talks:
+Upcoming...
