@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kuangzhi Ge"
 description              : &description "personal description"
-url                      : "https://mamba4l924.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://KuangzhiGe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "AI, EECS, PKU"
   location         : "Haidian district, Beijing, China"
   employer         : "Peking University"
-  uri              : "https://mamba4l924.github.io"# URL
+  uri              : "https://KuangzhiGe.github.io"# URL
   email            : "gekuangzhi@gmail.com" 
 
   # Academic websites
