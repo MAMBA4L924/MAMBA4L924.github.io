@@ -7,9 +7,9 @@ Hi there,I'm Kuangzhi Ge (A.K.A. Arell Ge), an undergraguate student majoring in
 # Research Experiences
 2024.1 - Now: Research Inter @HMI lab, NERCVT
 
-#Publications:
+# Publications:
 Upcoming...
 
-#Awards:
+# Awards:
 - Peking University Outstanding Freshman Scholarship, Third Prize
   - Year: [2022]
