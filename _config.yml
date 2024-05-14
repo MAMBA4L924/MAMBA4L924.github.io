@@ -24,9 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Kuangzhi Ge"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "PKU AI 26'
-  MLLM / ML / CV 
-  Create Explore Expand Conquer"
+  bio              : "PKU AI 26'                       MLLM / ML / CV                Create Explore Expand Conquer"
   location         : "Haidian district, Beijing, China"
   employer         : "Peking University"
   uri              : "https://mamba4l924.github.io"# URL
@@ -44,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/MAMBA4L924"
+  github           : "MAMBA4L924"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
